@@ -8,6 +8,3 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ### 🛠️Tool
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustHuman1106&show_icons=true&theme=dark)
